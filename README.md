@@ -29,7 +29,7 @@ Currently learning offensive and defensive security on [TryHackMe](https://tryha
 
 #### Off the clock
 
-<img src="metrics.steam.svg" alt="Steam" />
+<img src="games.svg" alt="Hours played" />
 
 ---
 

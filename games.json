@@ -1,0 +1,17 @@
+{
+  "title": "Hours played",
+  "steam_ids": ["76561199239386016", "STEAM_ID_2"],
+  "games": [
+    { "name": "Rust",                 "appids": [252490],           "image": 252490 },
+    { "name": "Grand Theft Auto V",   "appids": [271590, 3240220],  "image": 3240220 },
+    { "name": "Sea of Thieves",       "appids": [1172620],          "image": 1172620 },
+    { "name": "Ready or Not",         "appids": [1144200],          "image": 1144200 }
+  ],
+  "r6": {
+    "name": "Rainbow Six Siege",
+    "ubisoft_name": "NeafDigga",
+    "platform": "uplay",
+    "image": 359550,
+    "manual_hours": null
+  }
+}
