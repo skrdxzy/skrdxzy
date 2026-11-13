@@ -20,7 +20,9 @@ Currently learning offensive and defensive security on [TryHackMe](https://tryha
 
 ---
 
-#### Currently
+#### Security
+
+<a href="https://tryhackme.com/p/skrdxzy"><img src="tryhackme.svg" alt="TryHackMe stats" /></a>
 
 - Working through the TryHackMe Jr Penetration Tester path
 - Getting comfortable with Linux as a daily driver
@@ -29,8 +31,4 @@ Currently learning offensive and defensive security on [TryHackMe](https://tryha
 
 #### Off the clock
 
-<img src="games.svg" alt="Hours played" />
-
----
-
-[TryHackMe](https://tryhackme.com/p/skrdxzy) · [Steam](https://steamcommunity.com/id/skrdxzy/)
+<a href="https://steamcommunity.com/id/skrdxzy/"><img src="games.svg" alt="Hours played" /></a>
