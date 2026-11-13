@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="232" viewBox="0 0 720 232">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.t{font-size:15px;font-weight:600;fill:#e6edf3}.m{font-size:13px;fill:#8b949e}.n{font-size:14px;font-weight:600;fill:#e6edf3}.big{font-size:20px;font-weight:600;fill:#e6edf3}</style>
+<rect x="0.5" y="0.5" width="719" height="231" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="24" y="38"></text>
+<text class="m" x="696" y="38" text-anchor="end"></text>
+<text class="m" x="24" y="38" font-size="11" letter-spacing="0.6">OPERATING SYSTEMS</text>
+<text class="n" x="24" y="64">Windows</text>
+<rect x="24" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="62" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="100" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<text class="m" x="144" y="79" font-size="11">Experienced</text>
+<text class="n" x="24" y="110">Linux (Ubuntu)</text>
+<rect x="24" y="119" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="62" y="119" width="34" height="5" rx="2.5" fill="#21262d"/>
+<rect x="100" y="119" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="144" y="125" font-size="11">Beginner</text>
+<line x1="236" y1="24" x2="236" y2="208" stroke="#30363d"/>
+<text class="m" x="248" y="38" font-size="11" letter-spacing="0.6">LANGUAGES</text>
+<text class="n" x="248" y="64">Java</text>
+<rect x="248" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="286" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="324" y="73" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="368" y="79" font-size="11">Intermediate</text>
+<text class="n" x="248" y="110">JavaScript</text>
+<rect x="248" y="119" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="286" y="119" width="34" height="5" rx="2.5" fill="#21262d"/>
+<rect x="324" y="119" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="368" y="125" font-size="11">Beginner</text>
+<text class="n" x="248" y="156">HTML</text>
+<rect x="248" y="165" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="286" y="165" width="34" height="5" rx="2.5" fill="#21262d"/>
+<rect x="324" y="165" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="368" y="171" font-size="11">Beginner</text>
+<text class="n" x="248" y="202">CSS</text>
+<rect x="248" y="211" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="286" y="211" width="34" height="5" rx="2.5" fill="#21262d"/>
+<rect x="324" y="211" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="368" y="217" font-size="11">Beginner</text>
+<line x1="460" y1="24" x2="460" y2="208" stroke="#30363d"/>
+<text class="m" x="472" y="38" font-size="11" letter-spacing="0.6">TOOLS</text>
+<text class="n" x="472" y="64">Git / GitHub</text>
+<rect x="472" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="510" y="73" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="548" y="73" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="592" y="79" font-size="11">Intermediate</text>
+<text class="n" x="472" y="110">Visual Studio Code</text>
+<rect x="472" y="119" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="510" y="119" width="34" height="5" rx="2.5" fill="#58a6ff"/>
+<rect x="548" y="119" width="34" height="5" rx="2.5" fill="#21262d"/>
+<text class="m" x="592" y="125" font-size="11">Intermediate</text>
+</svg>
