@@ -7,16 +7,7 @@ Currently learning offensive and defensive security on [TryHackMe](https://tryha
 
 #### Skills
 
-| Technology | Level |
-|:--|:--|
-| Windows | ●●● Experienced |
-| Java | ●●○ Intermediate |
-| Git / GitHub | ●●○ Intermediate |
-| Visual Studio Code | ●●○ Intermediate |
-| Linux (Ubuntu) | ●○○ Beginner |
-| HTML | ●○○ Beginner |
-| CSS | ●○○ Beginner |
-| JavaScript | ●○○ Beginner |
+<img src="skills.svg" alt="Skills" />
 
 ---
 
